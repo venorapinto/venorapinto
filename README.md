@@ -1,3 +1,4 @@
+<!--
 # Hey there! 👋 I'm Venora
 
 > *Software engineer. Curious by nature, builder by choice. Always at the intersection of something interesting — lately, that's backend systems and AI. Something's always cooking. 🛠️*
@@ -72,16 +73,18 @@ I'm always open to interesting conversations, collaborations, or just a good tec
 ---
 
 *Thanks for stopping by — feel free to explore, star something, or just say hi!* 👋
-<!--
+-->
+
+
 # Hey, I'm Venora 👋
 
 - 🔭 I'm currently working on backend systems, APIs and AI-powered applications
 - 🌱 I'm currently learning data engineering, cloud architecture, and going deeper into AI agents
 - 👯 I'm looking to collaborate on interesting backend or AI projects — if you're building something cool, let's talk
 - 💬 Ask me about Python, FastAPI, PostgreSQL, LLMs, RAG, vector databases, AI agents, MCP, Docker, or Azure
-- 📫 How to reach me: https://github.com/venorapinto9 <!-- [your@email.com](mailto:your@email.com) --
+- 📫 How to reach me: https://github.com/venorapinto9 <!-- [your@email.com](mailto:your@email.com) -->
 - ⚡ Fun fact: I'm usually debugging something, building something, or thinking about what to build next
--->
+
 <!--
 **venorapinto9/venorapinto9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
