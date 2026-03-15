@@ -85,7 +85,7 @@ I'm always open to interesting conversations, collaborations, or just a good tec
 - 📫 How to reach me: https://github.com/venorapinto9 <!-- [your@email.com](mailto:your@email.com) -->
 - ⚡ Fun fact: I'm usually debugging something, building something, or thinking about what to build next
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandansgowda&label=Profile%20views&color=0e75b6&style=flat" alt="chandansgowda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=venorapinto&label=Profile%20views&color=0e75b6&style=flat" alt="venorapinto" /> </p>
 
 
 <!--
